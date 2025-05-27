@@ -1,0 +1,11 @@
+INPUT
+firstname=input("ENTER YOUR FIRST NAME:")
+lastname=input("ENTER YOUR LAST NAME:")
+fullname=firstname+lastname
+print("HELLO, ",fullname,"WELCOME TO PYTHON PROGRAM")
+
+OUTPUT
+ENTER YOUR FIRST NAME:Govind 
+ENTER YOUR LAST NAME:Rathod
+HELLO,  Govind Rathod WELCOME TO PYTHON PROGRAM
+PS C:\Users\govin> 
